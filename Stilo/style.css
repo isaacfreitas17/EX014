@@ -1,0 +1,39 @@
+body{
+    
+    margin: 20px;
+    
+  }
+  form{
+    padding: 20px;
+    margin: 33px;
+  }
+  a:link{
+    margin-left: 100px;
+    text-decoration: none;
+    background-color: transparent;
+    color: green;
+  }
+  a:visited{
+    text-decoration: none;
+    background-color: transparent;
+    color: rgb(255, 240, 240);
+  }
+  a:hover {
+color: red;
+background-color: transparent;
+text-decoration: underline;
+}
+a:active {
+color: yellow;
+background-color: transparent;
+text-decoration: underline;
+}
+.head1{
+    color: red;
+}
+.cabecalho{
+    background-color: rgb(31, 28, 28);
+}
+.nave{
+    text-align: center;
+}
