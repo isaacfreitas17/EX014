@@ -16,12 +16,15 @@ body{
   a:visited{
     text-decoration: none;
     background-color: transparent;
-    color: rgb(255, 240, 240);
+    color: rgb(17, 16, 16);
   }
   a:hover {
 color: red;
 background-color: transparent;
 text-decoration: underline;
+border: 12px solid gray;
+
+border-radius: 3px;
 }
 a:active {
 color: yellow;
@@ -32,7 +35,7 @@ text-decoration: underline;
     color: red;
 }
 .cabecalho{
-    background-color: rgb(31, 28, 28);
+    background-color: #ffff;
 }
 .nave{
     text-align: center;
